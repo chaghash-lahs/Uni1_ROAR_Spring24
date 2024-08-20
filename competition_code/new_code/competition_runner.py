@@ -4,7 +4,7 @@ import pygame
 # from submission import RoarCompetitionSolution
 # from submission_v1 import RoarCompetitionSolution
 # from submission_v2 import RoarCompetitionSolution
-from submission_v3 import RoarCompetitionSolution
+from submission_v16 import RoarCompetitionSolution
 # from infrastructure import RoarCompetitionAgentWrapper, ManualControlViewer
 from infrastructure_debug import RoarCompetitionAgentWrapper, ManualControlViewer
 from typing import List, Type, Optional, Dict, Any
